@@ -1,6 +1,6 @@
-# Sample usage of meal_planning script
+# Sample usage of mealoptimizer
 
-import meal_planning as mp
+import mealoptimizer as mp
 
 mp.print_foods_in_database()
 
